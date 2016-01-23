@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "curly": false,                 // specify curly brace conventions for all control statements
+    "no-loop-func": false,          // disallow creation of functions within loops
+    "no-redeclare": false,          // disallow declaring the same variable more then once
+    "no-unused-vars": false,        // disallow declaration of variables that are not used in the code
+  }
+}
